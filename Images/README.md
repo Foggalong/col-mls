@@ -12,7 +12,7 @@ Image | Author | License
 `Andrej_Nikolajewitsch_Kolmogorov.jpg` | [ 	Konrad Jacobs](https://commons.wikimedia.org/wiki/File:Andrej_Nikolajewitsch_Kolmogorov.jpg) | [CC BY-SA 2.0 DE]
 `col-logo.png` | Centre for Open Learning | © 2026 [UoE]
 `Probability_venn_a_b_strangers.svg` | [Erez Segal](https://commons.wikimedia.org/wiki/File:Probability_venn_a_b_strangers.svg) | [Public domain]
-`university_website.png` | [Randal Munroe](https://xkcd.com/773/) | [CC BY-NC 2.5]
+`Fruitnveg.png` | [Commons](https://commons.wikimedia.org/wiki/File:Fruitnveg.png) | [Public domain]
 `Venn0001.svg` | [Tilman Piesk](https://commons.wikimedia.org/wiki/File:Venn0001.svg) | [Public domain]
 `Venn0101.svg` | [Tilman Piesk](https://commons.wikimedia.org/wiki/File:Venn0101.svg) | [Public domain]
 `Venn0111.svg` | [Tilman Piesk](https://commons.wikimedia.org/wiki/File:Venn0111.svg) | [Public domain]
