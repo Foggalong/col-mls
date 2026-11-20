@@ -1,0 +1,56 @@
+---
+title: "Digital Tools"
+answers: true  # toggle true/false to show solutions
+---
+
+Today we will look at an overview of the different digital tools we will use in this course. Practical topics covered include:
+
+- Using a scientific calculator,
+- Using Python as a calculator.
+
+For this workshop you will need pen, paper, and a scientific calculator. This will take place in a computer lab so you do not need to bring your own laptop.
+
+
+## Knowledge Check
+
+Each week you have a quiz, designed to check understanding of the core calculations on a topic. To help with those who find a particular week difficult, each workshop will start with some similar questions. 
+
+1. Euler's Constant, $e = 2.718282\ldots$, is often used when modelling growth. What is $e$ when rounded down to one significant figure? What is it when rounded up to two decimal places?
+
+2. In a semester 1 lab, we tested how strongly we all tasted PTC. Seven students tasted it strongly, five weakly, and two not at all. What proportion of us didn't taste PTC?
+
+3. A student scored twenty-nine out of forty marks on their project. However, they automatically  receive a $5\%$ penalty for submitting three hours after the deadline. What is their mark after the penalty is applied?
+
+4. Kelvin is the base unit for temperature in the International Systems of Units. $273.15~\text{K}$ corresponds to $0^{\circ}\text{C}$. What is the current temperature in Kelvin?
+
+Remember that the quiz must be submitted before the end of this tutorial.
+
+
+## Rounding
+
+We've seen how calculations often leave us with decimal places that require rounding. For each of the following scenarios, describe what system of rounding would be appropriate to use and why.
+
+1. Measuring the distance in metres between trees in a dense orchard.
+2. Weight in grams found using a set of normal kitchen scales.
+3. The bill (in pounds and pence) for lab equipment when split between two departments.
+4. Timing how long in minutes it takes for my bus home to arrive.
+5. A student's final mark on a written exam.
+
+:::{.callout-tip title=Hint}
+Remember, you are being marked on your explanation - not just the final answer!
+:::
+
+::::{.content-hidden unless-meta=answers}
+:::{.callout-note title=Solution}
+Most of these don't have a single correct answer! There'll be a range of answers that are appropriate, but whether or not a specific rounding is appropriate will depend on whether the argument supports that.
+:::
+::::
+
+
+## Ratios
+
+In lab session 2 we did vitamin C analysis using DCPIP titration. As part of the sample preparation for the tablets we did this:
+
+> **Step 5:** Complete a $1:100$ serial dilution of the solution you've made. Pipette $1~\text{cm}^3$ of the solution into $99~\text{ml}$ of distilled water in a $250~\text{cm}^3$ conical flask.
+
+What is the purpose of specifying the ratio $1:100$ in this step?
